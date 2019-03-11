@@ -1,11 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Clone Starter Code
+## Clone Starter Code and remove origin to avoid accidental commmit
 
 run 
 ``` bash
 git clone --single-branch --branch starter-kit https://github.com/williamshty/react-workshop-hackerschool.git
 
+git remote remove origin
 ``` 
 in your terminal/commandline
 
