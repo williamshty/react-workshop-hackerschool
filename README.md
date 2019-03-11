@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Clone Starter Code
+
+run 
+``` bash
+git clone --single-branch --branch starter-kit https://github.com/williamshty/react-workshop-hackerschool.git
+
+``` 
+in your terminal/commandline
+
 ## Available Scripts
 
 In the project directory, you can run:
