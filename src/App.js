@@ -68,7 +68,7 @@ class App extends Component {
       <div className="App container">
         <ul className="collection with-header">
           <li className="collection-header">
-            <h4 className="blue-text center">Todos</h4>
+            <h4 className="blue-text center">Todos Starter</h4>
           </li>
           <TodoList todoItems={this.state.todoItems} deleteItem={this.handleDeleteItem} editItem={this.triggerEditItem}/>
           <li className="collection-item">
